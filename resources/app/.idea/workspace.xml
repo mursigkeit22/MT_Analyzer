@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="09d791f6-6b0b-4cc3-84e1-78ba09c38867" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../forge/simple-desktop-app-electronjs/src/pythone_functions2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2166">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pythone_functions2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="12" selection-end-line="149" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../forge/simple-desktop-app-electronjs/src/get_the_job_done2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="146">
+              <caret line="24" column="33" selection-end-line="97" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/get_the_job_done2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-4">
+              <caret line="69" column="63" selection-start-line="69" selection-start-column="63" selection-end-line="69" selection-end-column="63" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>translatorsFiles</find>
+      <find>fileNames</find>
+      <find>dia</find>
+      <find>type</find>
+      <find>textarea</find>
+      <find>googleText</find>
+      <find>getElementById</find>
+      <find>nameList</find>
+      <find>click</find>
+      <find>onClick</find>
+      <find>functions.js</find>
+      <find>gete</find>
+      <find>transtexts</find>
+      <find>ins</find>
+      <find>left-</find>
+      <find>googleTextarea</find>
+      <find>inside</find>
+      <find>buttons</find>
+      <find>value</find>
+      <find>dialog</find>
+      <find>globalFileIdNumber</find>
+      <find>translatorFileInput</find>
+      <find>textArea</find>
+      <find>optio</find>
+      <find>\\</find>
+      <find>options.args.push</find>
+      <find>functions</find>
+      <find>function</find>
+      <find>nameAlreadyInList</find>
+      <find>arrayFiles</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>/</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/two_texts.html" />
+        <option value="$PROJECT_DIR$/test.html" />
+        <option value="$PROJECT_DIR$/tempFiles/options.args.html" />
+        <option value="$PROJECT_DIR$/tempFiles/options.args.txt" />
+        <option value="$PROJECT_DIR$/first_window_test.html" />
+        <option value="$PROJECT_DIR$/style.css" />
+        <option value="$PROJECT_DIR$/second_window_test.html" />
+        <option value="$PROJECT_DIR$/third_window_test.html" />
+        <option value="$PROJECT_DIR$/tempFiles/TesttranslTech GPGrand Alliance Name_ Владимир.docx_0_ Владимир(ru).docx.html" />
+        <option value="$PROJECT_DIR$/tempFiles/TesttranslTech GPGrand Alliance Name_Alexander Korobyin.docx_0_Alexander Korobyin(ru).docx.html" />
+        <option value="$PROJECT_DIR$/learnng_style.css" />
+        <option value="$PROJECT_DIR$/../electron/resources/app/get_the_job_done2.py" />
+        <option value="$PROJECT_DIR$/../electron/resources/app/index.html" />
+        <option value="$PROJECT_DIR$/../electron/resources/app/tempFiles/test.html" />
+        <option value="$PROJECT_DIR$/../electron/resources/app/main.js" />
+        <option value="$PROJECT_DIR$/../electron/resources/app/functions.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/main_window_test.html" />
+        <option value="$PROJECT_DIR$/buttons.css" />
+        <option value="$PROJECT_DIR$/learning_style.css" />
+        <option value="$PROJECT_DIR$/style_third_window.css" />
+        <option value="$PROJECT_DIR$/style_main_window.css" />
+        <option value="$PROJECT_DIR$/style_second_window.css" />
+        <option value="$PROJECT_DIR$/second_window.html" />
+        <option value="$PROJECT_DIR$/get_the_job_done2.py" />
+        <option value="$PROJECT_DIR$/main.js" />
+        <option value="$PROJECT_DIR$/../forge/simple-desktop-app-electronjs/src/index.js" />
+        <option value="$PROJECT_DIR$/../forge/simple-desktop-app-electronjs/src/functions.js" />
+        <option value="$PROJECT_DIR$/../forge/simple-desktop-app-electronjs/src/renderer.js" />
+        <option value="$PROJECT_DIR$/../forge/simple-desktop-app-electronjs/src/index.html" />
+        <option value="$PROJECT_DIR$/../forge/simple-desktop-app-electronjs/src/get_the_job_done2.py" />
+        <option value="$PROJECT_DIR$/../forge/simple-desktop-app-electronjs/src/pythone_functions2.py" />
+        <option value="$PROJECT_DIR$/functions.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
+    <option name="width" value="1083" />
+    <option name="height" value="1020" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="project1_js" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project1_js" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="10.14.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2018.3.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="functions.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/functions.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="09d791f6-6b0b-4cc3-84e1-78ba09c38867" name="Default Changelist" comment="" />
+      <created>1545144706271</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1545144706271</updated>
+      <workItem from="1545144710225" duration="3610000" />
+      <workItem from="1545157088528" duration="12822000" />
+      <workItem from="1545290668953" duration="13095000" />
+      <workItem from="1545536720892" duration="25553000" />
+      <workItem from="1545744025173" duration="157185000" />
+      <workItem from="1546938317339" duration="45916000" />
+      <workItem from="1547098240230" duration="75492000" />
+      <workItem from="1547482626020" duration="595000" />
+      <workItem from="1547562834830" duration="1188000" />
+      <workItem from="1547564307717" duration="1139000" />
+      <workItem from="1547566316488" duration="650000" />
+      <workItem from="1547567360093" duration="1035000" />
+      <workItem from="1547569859792" duration="662000" />
+      <workItem from="1547571291907" duration="2552000" />
+      <workItem from="1547605287455" duration="179000" />
+      <workItem from="1547605588562" duration="1546000" />
+      <workItem from="1547608642123" duration="5956000" />
+      <workItem from="1547645873307" duration="2000" />
+      <workItem from="1547645907617" duration="6000" />
+      <workItem from="1547646270010" duration="83000" />
+      <workItem from="1547646719396" duration="130000" />
+      <workItem from="1547646875350" duration="4000" />
+      <workItem from="1547646944523" duration="3000" />
+      <workItem from="1547646996855" duration="26000" />
+      <workItem from="1547647136217" duration="135000" />
+      <workItem from="1547647300157" duration="15000" />
+      <workItem from="1547647504715" duration="602000" />
+      <workItem from="1547700656699" duration="19190000" />
+      <workItem from="1547790066925" duration="2254000" />
+      <workItem from="1547822052378" duration="624000" />
+      <workItem from="1547891362019" duration="1723000" />
+      <workItem from="1547893390070" duration="597000" />
+      <workItem from="1547915912699" duration="1778000" />
+      <workItem from="1547917771750" duration="1685000" />
+      <workItem from="1547919702695" duration="1632000" />
+      <workItem from="1547921518042" duration="1341000" />
+      <workItem from="1547923347495" duration="684000" />
+      <workItem from="1547926029242" duration="1317000" />
+      <workItem from="1547927849982" duration="759000" />
+      <workItem from="1547958340039" duration="1265000" />
+      <workItem from="1547960616619" duration="1325000" />
+      <workItem from="1547962506980" duration="1794000" />
+      <workItem from="1548086327461" duration="826000" />
+      <workItem from="1548088203187" duration="1730000" />
+      <workItem from="1548094615395" duration="994000" />
+      <workItem from="1548097772516" duration="622000" />
+      <workItem from="1548104388215" duration="1008000" />
+      <workItem from="1548343889503" duration="1044000" />
+      <workItem from="1548346303943" duration="1387000" />
+      <workItem from="1548348277579" duration="1460000" />
+      <workItem from="1548350097165" duration="1886000" />
+      <workItem from="1548352011261" duration="1731000" />
+      <workItem from="1548354253833" duration="2373000" />
+      <workItem from="1548375046939" duration="837000" />
+      <workItem from="1548395129848" duration="1250000" />
+      <workItem from="1548397309408" duration="599000" />
+      <workItem from="1548399146034" duration="599000" />
+      <workItem from="1548401029165" duration="599000" />
+      <workItem from="1548403072220" duration="599000" />
+      <workItem from="1548404891172" duration="599000" />
+      <workItem from="1548406716465" duration="599000" />
+      <workItem from="1548408691157" duration="599000" />
+      <workItem from="1548420238553" duration="599000" />
+      <workItem from="1548567780548" duration="1340000" />
+      <workItem from="1548570968095" duration="1125000" />
+      <workItem from="1548573888424" duration="37000" />
+    </task>
+    <task id="LOCAL-00001" summary="28 дек">
+      <created>1545992257596</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1545992257596</updated>
+    </task>
+    <task id="LOCAL-00002" summary="иногда надо и коммитить">
+      <created>1546476409385</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1546476409385</updated>
+    </task>
+    <task id="LOCAL-00003" summary="11 января">
+      <created>1547216604307</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1547216604307</updated>
+    </task>
+    <task id="LOCAL-00004" summary="24 января вторая версия перед сборкой">
+      <created>1548329347452</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1548329347452</updated>
+    </task>
+    <task id="LOCAL-00005" summary="24 января вторая версия перед сборкой">
+      <created>1548331246329</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1548331246329</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="412591000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30047694" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.3232682" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3250444" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39966834" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3285968" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3179396" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3232682" />
+      <window_info anchor="bottom" id="TypeScript" order="11" weight="0.3285968" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_NEW_TODO" value="false" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+    <MESSAGE value="28 дек" />
+    <MESSAGE value="иногда надо и коммитить" />
+    <MESSAGE value="11 января" />
+    <MESSAGE value="24 января вторая версия перед сборкой" />
+    <option name="LAST_COMMIT_MESSAGE" value="24 января вторая версия перед сборкой" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/node_modules/dialog/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="54" column="14" selection-start-line="54" selection-start-column="10" selection-end-line="54" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/electron/electron.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="2610" column="4" selection-start-line="2610" selection-start-column="4" selection-end-line="2610" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/common.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2159">
+          <caret line="127" column="18" selection-start-line="127" selection-start-column="18" selection-end-line="127" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rose_button.html" />
+    <entry file="file://$PROJECT_DIR$/second_window_test.html" />
+    <entry file="file://$PROJECT_DIR$/tempFiles/TesttranslTech GPGrand Alliance Name_ Владимир.docx_0_ Владимир(ru).docx.html" />
+    <entry file="file://$PROJECT_DIR$/tempFiles/options.args.txt" />
+    <entry file="file://$PROJECT_DIR$/tempFiles/test.html" />
+    <entry file="file://$PROJECT_DIR$/tempFiles/TesttranslTech GPGrand Alliance Name_Alexander Korobyin.docx_0_Alexander Korobyin(ru).docx.html" />
+    <entry file="file://$PROJECT_DIR$/first_window_test.html" />
+    <entry file="file://$PROJECT_DIR$/third_window_test.html" />
+    <entry file="file://$PROJECT_DIR$/../electron/resources/app/get_the_job_done2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="58" column="22" selection-start-line="58" selection-start-column="22" selection-end-line="58" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../electron/resources/app/style_second_window.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../electron/resources/app/tempFiles/test.html" />
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts" />
+    <entry file="file://$PROJECT_DIR$/../electron/resources/app/functions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="54" column="2" lean-forward="true" selection-start-line="54" selection-start-column="2" selection-end-line="54" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../electron/resources/app/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="39" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../electron/resources/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="478">
+          <caret line="72" column="36" selection-start-line="72" selection-start-column="36" selection-end-line="72" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/python-shell/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5984">
+          <caret line="352" selection-start-line="352" selection-end-line="352" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py" />
+    <entry file="file://$PROJECT_DIR$/past_style_main_window.css" />
+    <entry file="file://$PROJECT_DIR$/buttons.css" />
+    <entry file="file://$PROJECT_DIR$/main_window_test.html" />
+    <entry file="file://$PROJECT_DIR$/test.html" />
+    <entry file="file://$PROJECT_DIR$/tempFiles/newfile.txt" />
+    <entry file="file://$PROJECT_DIR$/tempFiles/second_window.html" />
+    <entry file="file://$PROJECT_DIR$/style_second_window.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style_third_window.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="21" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style_main_window.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1139">
+          <caret line="67" column="28" selection-start-line="67" selection-start-column="28" selection-end-line="67" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_the_job_done2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4">
+          <caret line="69" column="63" selection-start-line="69" selection-start-column="63" selection-end-line="69" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/second_window.html" />
+    <entry file="file://$PROJECT_DIR$/../forge/simple-desktop-app-electronjs/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3077">
+          <caret line="181" column="19" selection-start-line="181" selection-start-column="19" selection-end-line="181" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../forge/simple-desktop-app-electronjs/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../forge/simple-desktop-app-electronjs/src/renderer.js" />
+    <entry file="file://$PROJECT_DIR$/../forge/safe/index.js" />
+    <entry file="file://$PROJECT_DIR$/../forge/simple-desktop-app-electronjs/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../forge/simple-desktop-app-electronjs/src/functions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="190" column="30" selection-start-line="190" selection-start-column="27" selection-end-line="190" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../forge/simple-desktop-app-electronjs/.compilerc">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="238">
+            <caret line="14" column="87" selection-start-line="14" selection-start-column="87" selection-end-line="14" selection-end-column="87" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../forge/simple-desktop-app-electronjs/.eslintrc" />
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/Lib/_pydecimal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="3897" column="13" selection-start-line="3897" selection-start-column="13" selection-end-line="3897" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-636">
+          <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/renderer.js" />
+    <entry file="file://$PROJECT_DIR$/../forge/simple-desktop-app-electronjs/src/pythone_functions2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2166">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythone_functions2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="12" selection-end-line="149" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../forge/simple-desktop-app-electronjs/src/get_the_job_done2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="24" column="33" selection-end-line="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="20" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+          <folding>
+            <element signature="n#style#0;n#button#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../forge/simple-desktop-app-electronjs/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="100" column="36" lean-forward="true" selection-start-line="100" selection-start-column="36" selection-end-line="100" selection-end-column="36" />
+          <folding>
+            <element signature="n#style#0;n#button#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

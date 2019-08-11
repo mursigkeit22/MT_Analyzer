@@ -1,0 +1,141 @@
+1. got argv
+DIRECTORY: C:\mein\study\high_school\project1\MT_Analyzer_2.0_Olga_Style\resources\app\tempFiles\1
+1.1. CURRENT PATH: C:\mein\study\high_school\project1\MT_Analyzer_2.0_Olga_Style\resources\app\tempFiles\1\text_second_window.txt
+2. LEN(NAMES AND PATHS.DICT): 10
+3. LEN(MADE FILENAMES AND TEXTS.DICT): 10
+1) len(INDENTATION_MARKS_LIST): 11
+1) len(INDENTATION_MARKS_LIST): 12
+1) len(INDENTATION_MARKS_LIST): 12
+1) len(INDENTATION_MARKS_LIST): 12
+1) len(INDENTATION_MARKS_LIST): 12
+1) len(INDENTATION_MARKS_LIST): 12
+1) len(INDENTATION_MARKS_LIST): 12
+1) len(INDENTATION_MARKS_LIST): 12
+1) len(INDENTATION_MARKS_LIST): 12
+1) len(INDENTATION_MARKS_LIST): 11
+4. LEN(FILENAMES AND INDENTS.DICT): 10
+2)LEN(SET_OF_COMMON_GRAMS): 379
+2)LEN(SET_OF_COMMON_GRAMS): 28
+2)LEN(SET_OF_COMMON_GRAMS): 188
+2)LEN(SET_OF_COMMON_GRAMS): 66
+2)LEN(SET_OF_COMMON_GRAMS): 288
+2)LEN(SET_OF_COMMON_GRAMS): 306
+2)LEN(SET_OF_COMMON_GRAMS): 305
+2)LEN(SET_OF_COMMON_GRAMS): 188
+2)LEN(SET_OF_COMMON_GRAMS): 102
+2)LEN(SET_OF_COMMON_GRAMS): 153
+5. LEN(FILENAMES AND COMMONGRAMS.DICT): 10
+6. wrote first part of text_second_window.txt
+3) LEN(list_of_reapeated_gramms): 17
+4) adding_tags is almost done
+4) adding_tags is almost done
+1) len(INDENTATION_MARKS_LIST): 12
+6) making_paragraphs is almost done
+6) making_paragraphs is almost done
+7) colouring_spaces is almost done
+7) colouring_spaces is almost done
+8) creating_html is done
+5) PERCENTAGE: 100
+ONE LOOP ENDED
+3) LEN(list_of_reapeated_gramms): 0
+4) adding_tags is almost done
+4) adding_tags is almost done
+1) len(INDENTATION_MARKS_LIST): 12
+6) making_paragraphs is almost done
+6) making_paragraphs is almost done
+7) colouring_spaces is almost done
+7) colouring_spaces is almost done
+8) creating_html is done
+5) PERCENTAGE: 19
+ONE LOOP ENDED
+3) LEN(list_of_reapeated_gramms): 8
+4) adding_tags is almost done
+4) adding_tags is almost done
+1) len(INDENTATION_MARKS_LIST): 12
+6) making_paragraphs is almost done
+6) making_paragraphs is almost done
+7) colouring_spaces is almost done
+7) colouring_spaces is almost done
+8) creating_html is done
+5) PERCENTAGE: 69
+ONE LOOP ENDED
+3) LEN(list_of_reapeated_gramms): 7
+4) adding_tags is almost done
+4) adding_tags is almost done
+1) len(INDENTATION_MARKS_LIST): 12
+6) making_paragraphs is almost done
+6) making_paragraphs is almost done
+7) colouring_spaces is almost done
+7) colouring_spaces is almost done
+8) creating_html is done
+5) PERCENTAGE: 35
+ONE LOOP ENDED
+3) LEN(list_of_reapeated_gramms): 16
+4) adding_tags is almost done
+4) adding_tags is almost done
+1) len(INDENTATION_MARKS_LIST): 12
+6) making_paragraphs is almost done
+6) making_paragraphs is almost done
+7) colouring_spaces is almost done
+7) colouring_spaces is almost done
+8) creating_html is done
+5) PERCENTAGE: 86
+ONE LOOP ENDED
+3) LEN(list_of_reapeated_gramms): 17
+4) adding_tags is almost done
+4) adding_tags is almost done
+1) len(INDENTATION_MARKS_LIST): 12
+6) making_paragraphs is almost done
+6) making_paragraphs is almost done
+7) colouring_spaces is almost done
+7) colouring_spaces is almost done
+8) creating_html is done
+5) PERCENTAGE: 91
+ONE LOOP ENDED
+3) LEN(list_of_reapeated_gramms): 13
+4) adding_tags is almost done
+4) adding_tags is almost done
+1) len(INDENTATION_MARKS_LIST): 12
+6) making_paragraphs is almost done
+6) making_paragraphs is almost done
+7) colouring_spaces is almost done
+7) colouring_spaces is almost done
+8) creating_html is done
+5) PERCENTAGE: 89
+ONE LOOP ENDED
+3) LEN(list_of_reapeated_gramms): 10
+4) adding_tags is almost done
+4) adding_tags is almost done
+1) len(INDENTATION_MARKS_LIST): 12
+6) making_paragraphs is almost done
+6) making_paragraphs is almost done
+7) colouring_spaces is almost done
+7) colouring_spaces is almost done
+8) creating_html is done
+5) PERCENTAGE: 69
+ONE LOOP ENDED
+3) LEN(list_of_reapeated_gramms): 3
+4) adding_tags is almost done
+4) adding_tags is almost done
+1) len(INDENTATION_MARKS_LIST): 12
+6) making_paragraphs is almost done
+6) making_paragraphs is almost done
+7) colouring_spaces is almost done
+7) colouring_spaces is almost done
+8) creating_html is done
+5) PERCENTAGE: 48
+ONE LOOP ENDED
+3) LEN(list_of_reapeated_gramms): 11
+4) adding_tags is almost done
+4) adding_tags is almost done
+1) len(INDENTATION_MARKS_LIST): 12
+6) making_paragraphs is almost done
+6) making_paragraphs is almost done
+7) colouring_spaces is almost done
+7) colouring_spaces is almost done
+8) creating_html is done
+5) PERCENTAGE: 57
+ONE LOOP ENDED
+7. cycle ended
+8. finished writing to the file
+9. get_the_job_done2 is finished, FILENAMES: ['тестовыйЮриспруденцияgoogle.docx', 'тестовыйЮриспруденция_Анна Задкова(en).docx', 'тестовыйЮриспруденция_Анжела Мартакова(en).docx', 'тестовыйЮриспруденция_Zhanar Jalimbetova(en).docx', 'тестовыйЮриспруденция_Vally Manz(en).docx', 'тестовыйЮриспруденция_Valentyn Piskovskyi(en).docx', 'тестовыйЮриспруденция_Polina Bs(en)_88.docx', 'тестовыйЮриспруденция_Nika Nika(en)_72.docx', 'тестовыйЮриспруденция_Misha Danilenko(en)_50.docx', 'тестовыйЮриспруденция_Anna Babayan(en)_63.docx']

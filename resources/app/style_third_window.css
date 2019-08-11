@@ -1,0 +1,37 @@
+.table{
+    /*border: 3px solid #ff940e;*/
+    border: none;
+    table-layout: fixed;
+    width: 100%;
+    /*margin:0.7em auto;*/
+    border-radius:10px;
+    border-spacing: 10px;
+    }
+
+.left{
+    border: 3px solid #ff940e;
+    width: 50%;
+    padding: 1%;
+    background-color: #FFFFFF;
+    border-radius:10px;
+    text-align: left;
+    color:#333;
+    /*font: 120% Tahoma;*/
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
+    font-size: medium;
+    line-height: 1.4;
+
+
+}
+.right{
+    padding: 1%;
+    border: 3px solid #ff940e;
+    border-radius:10px;
+    text-align: left;
+    color:#333;
+    /*font: 120% Tahoma;*/
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
+    font-size: medium;
+    line-height: 1.4;
+
+}

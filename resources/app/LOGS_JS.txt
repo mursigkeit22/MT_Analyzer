@@ -1,0 +1,161 @@
+TEXT_OPT: GOOGLE_яндекс.docx?C:\mein\study\high_school\project1\files_to_test\21-01-2019_18-43-20\GOOGLE_яндекс.docx?Test, Ru-__ COMBINED_v.4.docx?C:\mein\study\high_school\project1\files_to_test\21-01-2019_18-43-20\Test, Ru-__ COMBINED_v.4.docx?Test, Ru-__ COMBINED_v.4_ALEXANDRA RUNCEANU(ro).docx?C:\mein\study\high_school\project1\files_to_test\21-01-2019_18-43-20\Test, Ru-__ COMBINED_v.4_ALEXANDRA RUNCEANU(ro).docx
+FROMTEXTAREA: 1
+Taximetrul vă va spune de ce ordinele nu vin. Citiți mai multe despre acest lucru în videoclipul nostru.
+
+Ce se întâmplă dacă nu sosesc ordine?
+Yandex.Taxometrul vă va spune exact ce a mers prost și cum să remediați acest lucru.
+De fiecare dată când începeți trecerea, nu uitați să comutați starea la poziția On line. În caz contrar, comenzile nu vor sosi.
+Verificați dacă Internetul și GPS-ul funcționează
+Problema ar putea fi o viteză scăzută a internetului sau lipsa unui semnal GPS.
+Dacă vedeți un avertisment despre acest lucru, deschideți meniul pentru perdele și verificați dacă Internetul și GPS-ul funcționează.
+Dacă luminile sunt stinse, porniți-le.
+Când viteza conexiunii la Internet este scăzută, activați și dezactivați modul de zbor. Rata transferului de date poate crește.
+Dacă utilizați același smartphone pentru a lucra într-un taximetru și în apeluri, rețineți că în timpul conversațiilor telefonice Internetul nu funcționează și comenzile nu vor fi primite.
+2
+[Stadion]: acum multe comenzi după [EVENT], vă așteptăm!
+Mulți oameni vor să folosească Yandex.Taxi în [CITY]. Urmați linia și obțineți până la + X ruble pentru fiecare comandă completă!
+Până la + X ruble pentru fiecare comandă chiar acum în toate zonele orașului! Includeți "Pe linie" și câștigați mult mai mult decât de obicei!
+3
+Veste bună: acum, în aplicația Yandex.Taxi, puteți comanda două sau trei mașini la un moment dat. De exemplu, pentru o companie mare sau pentru tine și părinți după cină cu rudele - nu va trebui să aștepți ca ei să ajungă acasă să plece singuri.
+
+Pentru a efectua mai multe comenzi de la un singur telefon, faceți clic pe "Comandați un alt taxi". Acesta va apărea în partea de jos a ecranului când sistemul începe să caute prima mașină pentru dvs. Puteți să conduceți o persoană pe propria cheltuială dacă alegeți cartea dvs. bancar în metodele de plată. Dacă pasagerul plătește el însuși, alege să plătească în numerar.
+
+Puteți apela un taxi la adrese diferite și pe diferite rute.
+
+Urmăriți călătoriile multiple nu este mai dificil decât unul. În partea de jos a ecranului - cărți de comandă mici cu informații principale, care variază în funcție de statut. De exemplu, în cazul în care călătoria nu a început încă, numărul autovehiculului este scris aici și când acesta sosește. Dacă sunteți pe drum - adresa finală și cât de mult să mergeți la ea.
+
+Aplicația arată când fiecare comandă a început și sa încheiat.
+
+Puteți utiliza noua funcție dacă ați efectuat deja mai multe călătorii cu Yandex.Taxi.
+
+CURRENTFOLDER: 1
+PYTHONSHELLRUN OPTIONS.ARGS: GOOGLE_яндекс.docx,C:\mein\study\high_school\project1\files_to_test\21-01-2019_18-43-20\GOOGLE_яндекс.docx,Test, Ru-__ COMBINED_v.4.docx,C:\mein\study\high_school\project1\files_to_test\21-01-2019_18-43-20\Test, Ru-__ COMBINED_v.4.docx,Test, Ru-__ COMBINED_v.4_ALEXANDRA RUNCEANU(ro).docx,C:\mein\study\high_school\project1\files_to_test\21-01-2019_18-43-20\Test, Ru-__ COMBINED_v.4_ALEXANDRA RUNCEANU(ro).docx,1
+Taximetrul vă va spune de ce ordinele nu vin. Citiți mai multe despre acest lucru în videoclipul nostru.
+
+Ce se întâmplă dacă nu sosesc ordine?
+Yandex.Taxometrul vă va spune exact ce a mers prost și cum să remediați acest lucru.
+De fiecare dată când începeți trecerea, nu uitați să comutați starea la poziția On line. În caz contrar, comenzile nu vor sosi.
+Verificați dacă Internetul și GPS-ul funcționează
+Problema ar putea fi o viteză scăzută a internetului sau lipsa unui semnal GPS.
+Dacă vedeți un avertisment despre acest lucru, deschideți meniul pentru perdele și verificați dacă Internetul și GPS-ul funcționează.
+Dacă luminile sunt stinse, porniți-le.
+Când viteza conexiunii la Internet este scăzută, activați și dezactivați modul de zbor. Rata transferului de date poate crește.
+Dacă utilizați același smartphone pentru a lucra într-un taximetru și în apeluri, rețineți că în timpul conversațiilor telefonice Internetul nu funcționează și comenzile nu vor fi primite.
+2
+[Stadion]: acum multe comenzi după [EVENT], vă așteptăm!
+Mulți oameni vor să folosească Yandex.Taxi în [CITY]. Urmați linia și obțineți până la + X ruble pentru fiecare comandă completă!
+Până la + X ruble pentru fiecare comandă chiar acum în toate zonele orașului! Includeți "Pe linie" și câștigați mult mai mult decât de obicei!
+3
+Veste bună: acum, în aplicația Yandex.Taxi, puteți comanda două sau trei mașini la un moment dat. De exemplu, pentru o companie mare sau pentru tine și părinți după cină cu rudele - nu va trebui să aștepți ca ei să ajungă acasă să plece singuri.
+
+Pentru a efectua mai multe comenzi de la un singur telefon, faceți clic pe "Comandați un alt taxi". Acesta va apărea în partea de jos a ecranului când sistemul începe să caute prima mașină pentru dvs. Puteți să conduceți o persoană pe propria cheltuială dacă alegeți cartea dvs. bancar în metodele de plată. Dacă pasagerul plătește el însuși, alege să plătească în numerar.
+
+Puteți apela un taxi la adrese diferite și pe diferite rute.
+
+Urmăriți călătoriile multiple nu este mai dificil decât unul. În partea de jos a ecranului - cărți de comandă mici cu informații principale, care variază în funcție de statut. De exemplu, în cazul în care călătoria nu a început încă, numărul autovehiculului este scris aici și când acesta sosește. Dacă sunteți pe drum - adresa finală și cât de mult să mergeți la ea.
+
+Aplicația arată când fiecare comandă a început și sa încheiat.
+
+Puteți utiliza noua funcție dacă ați efectuat deja mai multe călătorii cu Yandex.Taxi.
+,C:\mein\study\high_school\project1\project1_js\tempFiles\1
+RESULT: LEN_GOOGLETEXT:  414  WORDS
+RESULT: INDENTATION_MARKS_LIST:  [0, 1, 19, 26, 41, 63, 69, 83, 101, 106, 125, 152, 153, 161, 182, 207, 208, 253, 316, 327, 391, 401]
+RESULT: INDENTATION_MARKS_LIST:  [0, 1, 13, 19, 30, 50, 56, 67, 82, 88, 102, 130, 131, 140, 158, 178, 179, 217, 263, 273, 323, 332]
+RESULT: INDENTATION_MARKS_LIST:  [0, 1, 21, 27, 45, 67, 73, 84, 101, 107, 127, 157, 158, 171, 193, 218, 219, 266, 328, 339, 405, 415]
+RESULT: INDENTATION_MARKS_LIST:  [0, 1, 19, 26, 41, 63, 69, 83, 101, 106, 125, 152, 153, 161, 182, 207, 208, 253, 316, 327, 391, 401, 414]
+RESULT: PERCENTAGE:  100
+RESULT: INDENTATION_MARKS_LIST:  [0, 1, 19, 26, 41, 63, 69, 83, 101, 106, 125, 152, 153, 161, 182, 207, 208, 253, 316, 327, 391, 401, 414]
+RESULT: PERCENTAGE:  0
+RESULT: INDENTATION_MARKS_LIST:  [0, 1, 19, 26, 41, 63, 69, 83, 101, 106, 125, 152, 153, 161, 182, 207, 208, 253, 316, 327, 391, 401, 414]
+RESULT: PERCENTAGE:  59
+RESULT: len and type sys.argv  9 <class 'list'>
+RESULT: len names_and_paths  3
+RESULT: len filenames_and_texts  3
+TEXT_OPT: тестовыйЮриспруденция_Valentyn Piskovskyi(en).docx?C:\mein\study\high_school\project1\files_to_test\тестовыйЮриспруденция_Valentyn Piskovskyi(en).docx?тестовыйЮриспруденция_Polina Bs(en)_88.docx?C:\mein\study\high_school\project1\files_to_test\тестовыйЮриспруденция_Polina Bs(en)_88.docx?тестовыйЮриспруденция_Nika Nika(en)_72.docx?C:\mein\study\high_school\project1\files_to_test\тестовыйЮриспруденция_Nika Nika(en)_72.docx?тестовыйЮриспруденция_Misha Danilenko(en)_50.docx?C:\mein\study\high_school\project1\files_to_test\тестовыйЮриспруденция_Misha Danilenko(en)_50.docx?тестовыйЮриспруденция_Anna Babayan(en)_63.docx?C:\mein\study\high_school\project1\files_to_test\тестовыйЮриспруденция_Anna Babayan(en)_63.docx?lungă perioadă de timp așteptați așteptați.docx?C:\mein\study\high_school\project1\files_to_test\lungă perioadă de timp așteptați așteptați.docx
+FROMTEXTAREA: sdfghj
+CURRENTFOLDER: 2
+PYTHONSHELLRUN OPTIONS.ARGS: тестовыйЮриспруденция_Valentyn Piskovskyi(en).docx,C:\mein\study\high_school\project1\files_to_test\тестовыйЮриспруденция_Valentyn Piskovskyi(en).docx,тестовыйЮриспруденция_Polina Bs(en)_88.docx,C:\mein\study\high_school\project1\files_to_test\тестовыйЮриспруденция_Polina Bs(en)_88.docx,тестовыйЮриспруденция_Nika Nika(en)_72.docx,C:\mein\study\high_school\project1\files_to_test\тестовыйЮриспруденция_Nika Nika(en)_72.docx,тестовыйЮриспруденция_Misha Danilenko(en)_50.docx,C:\mein\study\high_school\project1\files_to_test\тестовыйЮриспруденция_Misha Danilenko(en)_50.docx,тестовыйЮриспруденция_Anna Babayan(en)_63.docx,C:\mein\study\high_school\project1\files_to_test\тестовыйЮриспруденция_Anna Babayan(en)_63.docx,lungă perioadă de timp așteptați așteptați.docx,C:\mein\study\high_school\project1\files_to_test\lungă perioadă de timp așteptați așteptați.docx,sdfghj,C:\mein\study\high_school\project1\project1_js\tempFiles\2
+RESULT: LEN_GOOGLETEXT:  1  WORDS
+RESULT: INDENTATION_MARKS_LIST:  [0, 1, 19, 22, 73, 174, 212, 259, 298, 300, 308, 324]
+RESULT: INDENTATION_MARKS_LIST:  [0, 2, 20, 23, 74, 173, 209, 256, 295, 297, 305, 321]
+RESULT: INDENTATION_MARKS_LIST:  [0, 1, 19, 22, 68, 171, 214, 265, 298, 300, 309, 325]
+RESULT: INDENTATION_MARKS_LIST:  [0, 1, 19, 22, 67, 164, 201, 247, 281, 283, 292, 307]
+RESULT: INDENTATION_MARKS_LIST:  [0, 22, 25, 75, 186, 224, 278, 319, 321, 329, 345]
+RESULT: INDENTATION_MARKS_LIST:  [0]
+RESULT: INDENTATION_MARKS_LIST:  [0]
+RESULT: PERCENTAGE:  0
+RESULT: INDENTATION_MARKS_LIST:  [0]
+RESULT: PERCENTAGE:  0
+RESULT: INDENTATION_MARKS_LIST:  [0]
+RESULT: PERCENTAGE:  0
+RESULT: INDENTATION_MARKS_LIST:  [0]
+RESULT: PERCENTAGE:  0
+RESULT: INDENTATION_MARKS_LIST:  [0]
+RESULT: PERCENTAGE:  0
+RESULT: INDENTATION_MARKS_LIST:  [0]
+RESULT: PERCENTAGE:  0
+RESULT: len and type sys.argv  15 <class 'list'>
+RESULT: len names_and_paths  6
+RESULT: len filenames_and_texts  6
+TEXT_OPT: тестовыйЮриспруденцияgoogle.docx?C:\mein\study\high_school\project1\files_to_test\тестовыйЮриспруденцияgoogle.docx?тестовыйЮриспруденция_Анна Задкова(en).docx?C:\mein\study\high_school\project1\files_to_test\тестовыйЮриспруденция_Анна Задкова(en).docx?тестовыйЮриспруденция_Анжела Мартакова(en).docx?C:\mein\study\high_school\project1\files_to_test\тестовыйЮриспруденция_Анжела Мартакова(en).docx?тестовыйЮриспруденция_Zhanar Jalimbetova(en).docx?C:\mein\study\high_school\project1\files_to_test\тестовыйЮриспруденция_Zhanar Jalimbetova(en).docx?тестовыйЮриспруденция_Vally Manz(en).docx?C:\mein\study\high_school\project1\files_to_test\тестовыйЮриспруденция_Vally Manz(en).docx?тестовыйЮриспруденция_Valentyn Piskovskyi(en).docx?C:\mein\study\high_school\project1\files_to_test\тестовыйЮриспруденция_Valentyn Piskovskyi(en).docx?тестовыйЮриспруденция_Polina Bs(en)_88.docx?C:\mein\study\high_school\project1\files_to_test\тестовыйЮриспруденция_Polina Bs(en)_88.docx?тестовыйЮриспруденция_Nika Nika(en)_72.docx?C:\mein\study\high_school\project1\files_to_test\тестовыйЮриспруденция_Nika Nika(en)_72.docx?тестовыйЮриспруденция_Misha Danilenko(en)_50.docx?C:\mein\study\high_school\project1\files_to_test\тестовыйЮриспруденция_Misha Danilenko(en)_50.docx?тестовыйЮриспруденция_Anna Babayan(en)_63.docx?C:\mein\study\high_school\project1\files_to_test\тестовыйЮриспруденция_Anna Babayan(en)_63.docx
+FROMTEXTAREA: In accordance with Articles 10, 2, 358 of the Enterprise Code of October 27, 2013, the Government DECIDES:
+Article 6. Legality
+       1. The court, when considering and resolving civil cases, is obliged to strictly comply with the requirements of the Constitution of the Republic of Kazakhstan, constitutional laws of the Republic of Kazakhstan, this Code, and other regulatory legal acts subject to application of international treaties of the Republic of Kazakhstan.
+       2. The courts are not entitled to apply laws and other regulatory legal acts that infringe the rights and freedoms of a person and citizen enshrined in the Constitution. If the court finds that a law or other regulatory legal act to be applied infringes upon the rights and freedoms of a person and citizen enshrined in the Constitution, he is obliged to suspend the proceedings and apply to the Constitutional Council of the Republic of Kazakhstan with a view to declare this act unconstitutional. Upon the court’s receipt of the final decision of the Constitutional Council, the proceedings are resumed.
+      3. The court, having established when considering and resolving a case, the inconsistency of an act of a state or other body with the law or issuing it with excess of powers, applies the norms of the law.
+      4. In the absence of rules of law governing the disputed legal relationship, the court applies the rules of law governing similar relationships, and in the absence of such rules resolves the dispute based on the general principles and meaning of the legislation of the Republic of Kazakhstan.
+      5. If the law or by agreement of the parties to the dispute provides for the resolution of relevant issues by the court, the court is obliged to resolve these issues based on the criteria of fairness and reasonableness.
+
+Article 176.
+Assignment or waste of entrusted property of others
+1. Assignment or waste, that is, the theft of another's property entrusted to the guilty -
+is punished with a fine in the amount of from two hundred to five hundred monthly calculation indices or in the amount of the salary or other income of the convict for a period from two to five months, or by engaging in public works for a period of one hundred twenty to one hundred eighty hours, or correctional labor for up to two years, or arrest for up to six months, or imprisonment for up to three years.
+
+CURRENTFOLDER: 1
+PYTHONSHELLRUN OPTIONS.ARGS: тестовыйЮриспруденцияgoogle.docx,C:\mein\study\high_school\project1\files_to_test\тестовыйЮриспруденцияgoogle.docx,тестовыйЮриспруденция_Анна Задкова(en).docx,C:\mein\study\high_school\project1\files_to_test\тестовыйЮриспруденция_Анна Задкова(en).docx,тестовыйЮриспруденция_Анжела Мартакова(en).docx,C:\mein\study\high_school\project1\files_to_test\тестовыйЮриспруденция_Анжела Мартакова(en).docx,тестовыйЮриспруденция_Zhanar Jalimbetova(en).docx,C:\mein\study\high_school\project1\files_to_test\тестовыйЮриспруденция_Zhanar Jalimbetova(en).docx,тестовыйЮриспруденция_Vally Manz(en).docx,C:\mein\study\high_school\project1\files_to_test\тестовыйЮриспруденция_Vally Manz(en).docx,тестовыйЮриспруденция_Valentyn Piskovskyi(en).docx,C:\mein\study\high_school\project1\files_to_test\тестовыйЮриспруденция_Valentyn Piskovskyi(en).docx,тестовыйЮриспруденция_Polina Bs(en)_88.docx,C:\mein\study\high_school\project1\files_to_test\тестовыйЮриспруденция_Polina Bs(en)_88.docx,тестовыйЮриспруденция_Nika Nika(en)_72.docx,C:\mein\study\high_school\project1\files_to_test\тестовыйЮриспруденция_Nika Nika(en)_72.docx,тестовыйЮриспруденция_Misha Danilenko(en)_50.docx,C:\mein\study\high_school\project1\files_to_test\тестовыйЮриспруденция_Misha Danilenko(en)_50.docx,тестовыйЮриспруденция_Anna Babayan(en)_63.docx,C:\mein\study\high_school\project1\files_to_test\тестовыйЮриспруденция_Anna Babayan(en)_63.docx,In accordance with Articles 10, 2, 358 of the Enterprise Code of October 27, 2013, the Government DECIDES:
+Article 6. Legality
+       1. The court, when considering and resolving civil cases, is obliged to strictly comply with the requirements of the Constitution of the Republic of Kazakhstan, constitutional laws of the Republic of Kazakhstan, this Code, and other regulatory legal acts subject to application of international treaties of the Republic of Kazakhstan.
+       2. The courts are not entitled to apply laws and other regulatory legal acts that infringe the rights and freedoms of a person and citizen enshrined in the Constitution. If the court finds that a law or other regulatory legal act to be applied infringes upon the rights and freedoms of a person and citizen enshrined in the Constitution, he is obliged to suspend the proceedings and apply to the Constitutional Council of the Republic of Kazakhstan with a view to declare this act unconstitutional. Upon the court’s receipt of the final decision of the Constitutional Council, the proceedings are resumed.
+      3. The court, having established when considering and resolving a case, the inconsistency of an act of a state or other body with the law or issuing it with excess of powers, applies the norms of the law.
+      4. In the absence of rules of law governing the disputed legal relationship, the court applies the rules of law governing similar relationships, and in the absence of such rules resolves the dispute based on the general principles and meaning of the legislation of the Republic of Kazakhstan.
+      5. If the law or by agreement of the parties to the dispute provides for the resolution of relevant issues by the court, the court is obliged to resolve these issues based on the criteria of fairness and reasonableness.
+
+Article 176.
+Assignment or waste of entrusted property of others
+1. Assignment or waste, that is, the theft of another's property entrusted to the guilty -
+is punished with a fine in the amount of from two hundred to five hundred monthly calculation indices or in the amount of the salary or other income of the convict for a period from two to five months, or by engaging in public works for a period of one hundred twenty to one hundred eighty hours, or correctional labor for up to two years, or arrest for up to six months, or imprisonment for up to three years.
+,C:\mein\study\high_school\project1\project1_js-Olga_Style\tempFiles\1
+RESULT: LEN_GOOGLETEXT:  402  WORDS
+RESULT: INDENTATION_MARKS_LIST:  [0, 18, 21, 71, 172, 210, 258, 297, 299, 307, 323]
+RESULT: INDENTATION_MARKS_LIST:  [0, 1, 17, 20, 61, 154, 186, 228, 258, 260, 266, 282]
+RESULT: INDENTATION_MARKS_LIST:  [0, 1, 19, 22, 72, 168, 197, 245, 283, 285, 293, 310]
+RESULT: INDENTATION_MARKS_LIST:  [0, 1, 20, 23, 59, 142, 186, 238, 269, 271, 277, 287]
+RESULT: INDENTATION_MARKS_LIST:  [0, 1, 19, 22, 61, 162, 200, 249, 289, 291, 297, 313]
+RESULT: INDENTATION_MARKS_LIST:  [0, 1, 19, 22, 73, 174, 212, 259, 298, 300, 308, 324]
+RESULT: INDENTATION_MARKS_LIST:  [0, 2, 20, 23, 74, 173, 209, 256, 295, 297, 305, 321]
+RESULT: INDENTATION_MARKS_LIST:  [0, 1, 19, 22, 68, 171, 214, 265, 298, 300, 309, 325]
+RESULT: INDENTATION_MARKS_LIST:  [0, 1, 19, 22, 67, 164, 201, 247, 281, 283, 292, 307]
+RESULT: INDENTATION_MARKS_LIST:  [0, 22, 25, 75, 186, 224, 278, 319, 321, 329, 345]
+RESULT: INDENTATION_MARKS_LIST:  [0, 18, 21, 71, 172, 210, 258, 297, 299, 307, 323, 402]
+RESULT: PERCENTAGE:  100
+RESULT: INDENTATION_MARKS_LIST:  [0, 18, 21, 71, 172, 210, 258, 297, 299, 307, 323, 402]
+RESULT: PERCENTAGE:  19
+RESULT: INDENTATION_MARKS_LIST:  [0, 18, 21, 71, 172, 210, 258, 297, 299, 307, 323, 402]
+RESULT: PERCENTAGE:  69
+RESULT: INDENTATION_MARKS_LIST:  [0, 18, 21, 71, 172, 210, 258, 297, 299, 307, 323, 402]
+RESULT: PERCENTAGE:  35
+RESULT: INDENTATION_MARKS_LIST:  [0, 18, 21, 71, 172, 210, 258, 297, 299, 307, 323, 402]
+RESULT: PERCENTAGE:  86
+RESULT: INDENTATION_MARKS_LIST:  [0, 18, 21, 71, 172, 210, 258, 297, 299, 307, 323, 402]
+RESULT: PERCENTAGE:  91
+RESULT: INDENTATION_MARKS_LIST:  [0, 18, 21, 71, 172, 210, 258, 297, 299, 307, 323, 402]
+RESULT: PERCENTAGE:  89
+RESULT: INDENTATION_MARKS_LIST:  [0, 18, 21, 71, 172, 210, 258, 297, 299, 307, 323, 402]
+RESULT: PERCENTAGE:  69
+RESULT: INDENTATION_MARKS_LIST:  [0, 18, 21, 71, 172, 210, 258, 297, 299, 307, 323, 402]
+RESULT: PERCENTAGE:  48
+RESULT: INDENTATION_MARKS_LIST:  [0, 18, 21, 71, 172, 210, 258, 297, 299, 307, 323, 402]
+RESULT: PERCENTAGE:  57
+RESULT: len and type sys.argv  23 <class 'list'>
+RESULT: len names_and_paths  10
+RESULT: len filenames_and_texts  10

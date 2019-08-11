@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="">
+<head>
+  <meta charset="utf-8">
+  <title>MT Analyzer</title>
+
+  <link rel="stylesheet" href="style_main_window.css">
+</head>
+<body>
+<div id="leftwriting">Place your machine translated text here↓</div>
+<button id="reset" style='display: none;' onclick='arrayFiles.length=0'>New task</button>
+<label id='inputLabel' for="translatorsFiles">Choose files you want to check</label>
+<input type="file" id="translatorsFiles" multiple accept=".docx"
+       onchange="writeFileNames()">
+<div id="forText">
+  <label for="googleText"></label>
+  <textarea id="googleText"></textarea>
+</div>
+<div id="rightbox">
+  <div id="nameList"></div>
+</div>
+<div id="wait" style='display: none;'>Please wait, this may take a couple of minutes...</div>
+<button id="go">Go!</button>
+</body>
+<script>
+  require('./functions.js');
+  let fs = require('fs');
+
+
+  function rewrite() {
+    fs.writeFileSync(`${__dirname}/tempFiles/options.args.txt`, '');
+    for (var el of arrayFiles) {
+      fs.appendFileSync(`${__dirname}/tempFiles/options.args.txt`, el.name);
+      fs.appendFileSync(`${__dirname}/tempFiles/options.args.txt`, '?');
+      fs.appendFileSync(`${__dirname}/tempFiles/options.args.txt`, el.path);
+      fs.appendFileSync(`${__dirname}/tempFiles/options.args.txt`, '?');
+    }
+    var text = fs.readFileSync(`${__dirname}/tempFiles/options.args.txt`, 'utf8');
+    text = text.slice(0, -1); // убираем конечный вопросительный знак и перезаписываем
+    fs.writeFileSync(`${__dirname}/tempFiles/options.args.txt`, text);
+  }
+
+  function hideLine(idNum) {
+    var selectedDiv = document.getElementById('divnum' + idNum);
+    selectedDiv.style.display = 'none';
+    for (var i = 0; i < arrayFiles.length; i++) {
+      if (arrayFiles[i].fileId === idNum) {
+        arrayFiles.splice(i, 1)
+      }
+    }
+    rewrite()
+  }
+
+
+  var globalFileIdNumber = 0;
+  var arrayFiles = [];
+  const { dialog } = require('electron').remote;
+
+  function writeFileNames() {
+    var translatorsFiles = document.getElementById("translatorsFiles");
+    var txt = document.getElementById("nameList").innerHTML;
+
+    if ('files' in translatorsFiles) {
+      if (translatorsFiles.files.length > 0) {
+        var badNames = [];
+        for (var file of translatorsFiles.files) {
+          globalFileIdNumber++;
+          if ('name' in file) {
+            if (nameAlreadyInList(file.name)) {
+              badNames.push(file.name);
+              continue;
+            }
+            txt += "<div id = 'divnum" + globalFileIdNumber + "'> <br> ";
+            txt += file.name + " " +
+                    " <button type='button' class = 'del' onclick='hideLine(" + globalFileIdNumber + " )'>x</button><br></div>";
+            var aboutFiles = {
+              fileId: globalFileIdNumber,
+              name: file.name,
+              path: file.path
+            };
+            arrayFiles.push(aboutFiles);
+
+          }
+        }
+        rewrite();
+        if (badNames.length === 1) {
+          dialog.showMessageBox({message:'file '+ badNames +' is already added', title:'Oops! I did it again'});
+        }
+        if (badNames.length > 1) {
+          dialog.showMessageBox({message:'files ' + badNames + ' are already added', title:'Oops! I did it again'});
+
+        }
+
+        document.getElementById("translatorsFiles").value = '';
+      }
+      document.getElementById("nameList").innerHTML = txt;
+    }
+
+  }
+
+  function nameAlreadyInList(name) {
+    for (var obj of arrayFiles) {
+      if (obj.name === name) {
+        return true;
+      }
+    }
+    return false;
+  }
+
+
+
+</script>
+
+</html>
+
+

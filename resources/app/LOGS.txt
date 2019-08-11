@@ -1,0 +1,122 @@
+FROMTEXTAREA: xcvbn
+CURRENTFOLDER: 1
+PYTHONSHELLRUN OPTIONS.ARGS: Test, Ru-__ COMBINED_v.4_Аделина Смокина(ro).docx,C:\mein\study\high_school\project1\files_to_test\21-01-2019_18-43-20\Test, Ru-__ COMBINED_v.4_Аделина Смокина(ro).docx,1,xcvbn
+RESULT: CURRENT FOLDER:  1
+RESULT: CURRENT PATH:  tempFiles\1\text_second_window.txt
+RESULT: LEN_GOOGLETEXT:  1  WORDS
+RESULT: INDENTATION_MARKS_LIST:  [0, 1, 16, 23, 39, 62, 68, 81, 97, 102, 122, 145, 146, 155, 176, 200, 201, 246, 307, 318, 390, 400]
+RESULT: INDENTATION_MARKS_LIST:  [0]
+RESULT: PERCENTAGE:  0
+RESULT: len and type sys.argv  5 <class 'list'>
+RESULT: len names_and_paths  1
+RESULT: len filenames_and_texts  1
+FROMTEXTAREA: 1
+Taximetrul vă va spune de ce ordinele nu vin. Citiți mai multe despre acest lucru în videoclipul nostru.
+
+Ce se întâmplă dacă nu sosesc ordine?
+Yandex.Taxometrul vă va spune exact ce a mers prost și cum să remediați acest lucru.
+De fiecare dată când începeți trecerea, nu uitați să comutați starea la poziția On line. În caz contrar, comenzile nu vor sosi.
+Verificați dacă Internetul și GPS-ul funcționează
+Problema ar putea fi o viteză scăzută a internetului sau lipsa unui semnal GPS.
+Dacă vedeți un avertisment despre acest lucru, deschideți meniul pentru perdele și verificați dacă Internetul și GPS-ul funcționează.
+Dacă luminile sunt stinse, porniți-le.
+Când viteza conexiunii la Internet este scăzută, activați și dezactivați modul de zbor. Rata transferului de date poate crește.
+Dacă utilizați același smartphone pentru a lucra într-un taximetru și în apeluri, rețineți că în timpul conversațiilor telefonice Internetul nu funcționează și comenzile nu vor fi primite.
+2
+[Stadion]: acum multe comenzi după [EVENT], vă așteptăm!
+Mulți oameni vor să folosească Yandex.Taxi în [CITY]. Urmați linia și obțineți până la + X ruble pentru fiecare comandă completă!
+Până la + X ruble pentru fiecare comandă chiar acum în toate zonele orașului! Includeți "Pe linie" și câștigați mult mai mult decât de obicei!
+3
+Veste bună: acum, în aplicația Yandex.Taxi, puteți comanda două sau trei mașini la un moment dat. De exemplu, pentru o companie mare sau pentru tine și părinți după cină cu rudele - nu va trebui să aștepți ca ei să ajungă acasă să plece singuri.
+
+Pentru a efectua mai multe comenzi de la un singur telefon, faceți clic pe "Comandați un alt taxi". Acesta va apărea în partea de jos a ecranului când sistemul începe să caute prima mașină pentru dvs. Puteți să conduceți o persoană pe propria cheltuială dacă alegeți cartea dvs. bancar în metodele de plată. Dacă pasagerul plătește el însuși, alege să plătească în numerar.
+
+Puteți apela un taxi la adrese diferite și pe diferite rute.
+
+Urmăriți călătoriile multiple nu este mai dificil decât unul. În partea de jos a ecranului - cărți de comandă mici cu informații principale, care variază în funcție de statut. De exemplu, în cazul în care călătoria nu a început încă, numărul autovehiculului este scris aici și când acesta sosește. Dacă sunteți pe drum - adresa finală și cât de mult să mergeți la ea.
+
+Aplicația arată când fiecare comandă a început și sa încheiat.
+
+Puteți utiliza noua funcție dacă ați efectuat deja mai multe călătorii cu Yandex.Taxi.
+
+CURRENTFOLDER: 2
+PYTHONSHELLRUN OPTIONS.ARGS: Test, Ru-__ COMBINED_v.4_ALEXANDRA RUNCEANU(ro).docx,C:\mein\study\high_school\project1\files_to_test\21-01-2019_18-43-20\Test, Ru-__ COMBINED_v.4_ALEXANDRA RUNCEANU(ro).docx,Test, Ru-__ COMBINED_v.4_GanIbaLL L(ro).docx,C:\mein\study\high_school\project1\files_to_test\21-01-2019_18-43-20\Test, Ru-__ COMBINED_v.4_GanIbaLL L(ro).docx,Test, Ru-__ COMBINED_v.4_Julia Pologova(ro).docx,C:\mein\study\high_school\project1\files_to_test\21-01-2019_18-43-20\Test, Ru-__ COMBINED_v.4_Julia Pologova(ro).docx,2,1
+Taximetrul vă va spune de ce ordinele nu vin. Citiți mai multe despre acest lucru în videoclipul nostru.
+
+Ce se întâmplă dacă nu sosesc ordine?
+Yandex.Taxometrul vă va spune exact ce a mers prost și cum să remediați acest lucru.
+De fiecare dată când începeți trecerea, nu uitați să comutați starea la poziția On line. În caz contrar, comenzile nu vor sosi.
+Verificați dacă Internetul și GPS-ul funcționează
+Problema ar putea fi o viteză scăzută a internetului sau lipsa unui semnal GPS.
+Dacă vedeți un avertisment despre acest lucru, deschideți meniul pentru perdele și verificați dacă Internetul și GPS-ul funcționează.
+Dacă luminile sunt stinse, porniți-le.
+Când viteza conexiunii la Internet este scăzută, activați și dezactivați modul de zbor. Rata transferului de date poate crește.
+Dacă utilizați același smartphone pentru a lucra într-un taximetru și în apeluri, rețineți că în timpul conversațiilor telefonice Internetul nu funcționează și comenzile nu vor fi primite.
+2
+[Stadion]: acum multe comenzi după [EVENT], vă așteptăm!
+Mulți oameni vor să folosească Yandex.Taxi în [CITY]. Urmați linia și obțineți până la + X ruble pentru fiecare comandă completă!
+Până la + X ruble pentru fiecare comandă chiar acum în toate zonele orașului! Includeți "Pe linie" și câștigați mult mai mult decât de obicei!
+3
+Veste bună: acum, în aplicația Yandex.Taxi, puteți comanda două sau trei mașini la un moment dat. De exemplu, pentru o companie mare sau pentru tine și părinți după cină cu rudele - nu va trebui să aștepți ca ei să ajungă acasă să plece singuri.
+
+Pentru a efectua mai multe comenzi de la un singur telefon, faceți clic pe "Comandați un alt taxi". Acesta va apărea în partea de jos a ecranului când sistemul începe să caute prima mașină pentru dvs. Puteți să conduceți o persoană pe propria cheltuială dacă alegeți cartea dvs. bancar în metodele de plată. Dacă pasagerul plătește el însuși, alege să plătească în numerar.
+
+Puteți apela un taxi la adrese diferite și pe diferite rute.
+
+Urmăriți călătoriile multiple nu este mai dificil decât unul. În partea de jos a ecranului - cărți de comandă mici cu informații principale, care variază în funcție de statut. De exemplu, în cazul în care călătoria nu a început încă, numărul autovehiculului este scris aici și când acesta sosește. Dacă sunteți pe drum - adresa finală și cât de mult să mergeți la ea.
+
+Aplicația arată când fiecare comandă a început și sa încheiat.
+
+Puteți utiliza noua funcție dacă ați efectuat deja mai multe călătorii cu Yandex.Taxi.
+
+RESULT: CURRENT FOLDER:  2
+RESULT: CURRENT PATH:  tempFiles\2\text_second_window.txt
+RESULT: LEN_GOOGLETEXT:  414  WORDS
+RESULT: INDENTATION_MARKS_LIST:  [0, 1, 21, 27, 45, 67, 73, 84, 101, 107, 127, 157, 158, 171, 193, 218, 219, 266, 328, 339, 405, 415]
+RESULT: INDENTATION_MARKS_LIST:  [0, 1, 16, 23, 40, 60, 67, 83, 98, 103, 124, 150, 151, 159, 181, 205, 206, 264, 326, 337, 404, 416]
+RESULT: INDENTATION_MARKS_LIST:  [0, 1, 17, 24, 38, 57, 63, 76, 92, 97, 118, 146, 147, 156, 176, 199, 200, 245, 310, 322, 385, 395]
+RESULT: INDENTATION_MARKS_LIST:  [0, 1, 19, 26, 41, 63, 69, 83, 101, 106, 125, 152, 153, 161, 182, 207, 208, 253, 316, 327, 391, 401, 414]
+RESULT: PERCENTAGE:  59
+RESULT: INDENTATION_MARKS_LIST:  [0, 1, 19, 26, 41, 63, 69, 83, 101, 106, 125, 152, 153, 161, 182, 207, 208, 253, 316, 327, 391, 401, 414]
+RESULT: PERCENTAGE:  9
+RESULT: INDENTATION_MARKS_LIST:  [0, 1, 19, 26, 41, 63, 69, 83, 101, 106, 125, 152, 153, 161, 182, 207, 208, 253, 316, 327, 391, 401, 414]
+RESULT: PERCENTAGE:  63
+RESULT: len and type sys.argv  9 <class 'list'>
+RESULT: len names_and_paths  3
+RESULT: len filenames_and_texts  3
+FROMTEXTAREA: bnm
+CURRENTFOLDER: 1
+PYTHONSHELLRUN OPTIONS.ARGS: тестовыйЮриспруденция_Zhanar Jalimbetova(en).docx,C:\mein\study\high_school\project1\files_to_test\тестовыйЮриспруденция_Zhanar Jalimbetova(en).docx,1,bnm
+RESULT: CURRENT FOLDER:  1
+RESULT: CURRENT PATH:  tempFiles\1\text_second_window.txt
+RESULT: LEN_GOOGLETEXT:  1  WORDS
+RESULT: INDENTATION_MARKS_LIST:  [0, 1, 20, 23, 59, 142, 186, 238, 269, 271, 277, 287]
+RESULT: INDENTATION_MARKS_LIST:  [0]
+RESULT: PERCENTAGE:  0
+RESULT: len and type sys.argv  5 <class 'list'>
+RESULT: len names_and_paths  1
+RESULT: len filenames_and_texts  1
+FROMTEXTAREA: сми
+CURRENTFOLDER: 1
+PYTHONSHELLRUN OPTIONS.ARGS: тестовыйЮриспруденцияgoogle.docx,C:\mein\study\high_school\project1\files_to_test\тестовыйЮриспруденцияgoogle.docx,1,сми
+RESULT: CURRENT FOLDER:  1
+RESULT: CURRENT PATH:  tempFiles\1\text_second_window.txt
+RESULT: LEN_GOOGLETEXT:  1  WORDS
+RESULT: INDENTATION_MARKS_LIST:  [0, 18, 21, 71, 172, 210, 258, 297, 299, 307, 323]
+RESULT: INDENTATION_MARKS_LIST:  [0]
+RESULT: PERCENTAGE:  0
+RESULT: len and type sys.argv  5 <class 'list'>
+RESULT: len names_and_paths  1
+RESULT: len filenames_and_texts  1
+FROMTEXTAREA: сс
+CURRENTFOLDER: 2
+PYTHONSHELLRUN OPTIONS.ARGS: тестовыйЮриспруденция_Misha Danilenko(en)_50.docx,C:\mein\study\high_school\project1\files_to_test\тестовыйЮриспруденция_Misha Danilenko(en)_50.docx,2,сс
+RESULT: CURRENT FOLDER:  2
+RESULT: CURRENT PATH:  tempFiles\2\text_second_window.txt
+RESULT: LEN_GOOGLETEXT:  1  WORDS
+RESULT: INDENTATION_MARKS_LIST:  [0, 1, 19, 22, 67, 164, 201, 247, 281, 283, 292, 307]
+RESULT: INDENTATION_MARKS_LIST:  [0]
+RESULT: PERCENTAGE:  0
+RESULT: len and type sys.argv  5 <class 'list'>
+RESULT: len names_and_paths  1
+RESULT: len filenames_and_texts  1

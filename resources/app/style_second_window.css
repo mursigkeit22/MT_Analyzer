@@ -1,0 +1,75 @@
+.indent{
+    padding-left: 100px
+}
+.table{
+    /*table-layout: fixed;*/
+    width: 100%;
+    border-spacing: 1px;
+    /*margin:0.7em auto;*/
+}
+
+.fc-header{
+    width: 70%;
+    border-radius:10px;
+    color:#333;
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
+    font-size: medium;
+    background-color:#ff940e;
+    height: 50px;
+    text-align: center;
+}
+
+.sc-header{
+    width: 15%;
+    border-radius:10px;
+    color:#333;
+    font: 120% Tahoma;
+    background-color:#ff940e;
+    height: 50px;
+    text-align: center;
+}
+.tc-header{
+    width: 15%;
+    border-radius:10px;
+    color:#333;
+    background-color:#ff940e;
+    height: 50px;
+}
+.first-column{
+    padding: 0.5%;
+    background-color: #FFFFFF;
+    /*background-color: #afdfe1;*/
+    border-radius:10px;
+    text-align: center;
+    height: 30px;
+    color:#333;
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
+    font-size: medium;
+}
+.second-column{
+    background-color: #FFFFFF;
+    /*background-color: #afdfe1;*/
+    border-radius:10px;
+    text-align: center;
+    height: 30px;
+    color:#333;
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
+    font-size: medium;
+}
+.third-column{
+    background-color: #FFFFFF;
+    text-align: center;
+    border-radius:10px;
+    /*font: 120% Tahoma;*/
+    color:#333;
+}
+.button{
+    background-color: #ff940e;
+    border-radius: 10px;
+    text-align: center;
+    cursor: pointer;
+    font: 100% "Segoe UI Semilight";
+    border: 0.5px solid #ff940e;
+    color: #333;
+    outline: none;
+}
