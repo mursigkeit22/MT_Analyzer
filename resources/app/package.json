@@ -17,7 +17,7 @@
   "author": "Valerie Shelgunova",
   "license": "CC0-1.0",
   "devDependencies": {
-    "electron": "^3.0.7"
+    "electron": "^7.2.4"
   },
   "dependencies": {
     "bootstrap": "^4.1.3",
